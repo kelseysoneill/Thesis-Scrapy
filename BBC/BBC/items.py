@@ -19,5 +19,4 @@ class BbcItem(scrapy.Item):
     article_preview = Field()
     article_edsource = Field()
     article_url = Field()
-    article_imagecaption = Field()    
-    article_imagecaption2 = Field()
+    article_imagecaption = Field()
